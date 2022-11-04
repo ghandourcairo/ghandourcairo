@@ -1,0 +1,54 @@
+.title {
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    font-family:cairo
+}
+
+.logo1 {
+   height: 90px;
+    margin-bottom: 20px;
+    margin-right: 20px
+}
+
+.love {
+    font-size: 60px;
+    text-align: center;
+    font-family: bold;
+    font-family: cairo;
+    color: red
+}
+
+.gh{
+    color: red
+}
+
+/*
+.one {
+    height: 100px;
+    background: url(90.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}*/
+
+
+.one img {
+    height: 70px;
+    margin-bottom: 10px
+}
+
+
+.warning {
+    text-align: right
+}
+
+
+.lol{
+    height: 30px
+}
+
+.company {
+    color: blue
+}
